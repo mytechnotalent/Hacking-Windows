@@ -2,8 +2,8 @@
 .model flat, stdcall
 .stack 4096
 
-extrn	ExitProcess@4	: proc				;1 param  1x4
-extrn	MessageBoxA@16	: proc				;4 params 4x4
+extrn	ExitProcess@4: proc				;1 param  1x4
+extrn	MessageBoxA@16: proc				;4 params 4x4
 
 .data
 	msg_txt	    db	"Hello World", 0
