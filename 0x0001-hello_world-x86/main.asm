@@ -11,12 +11,12 @@ extrn	MessageBoxA@16	: proc				;4 params 4x4
 
 .code
 	main:
-		push	0				;UINT	uType
+		push	0				;UINT uType
 		lea	eax, msg_caption		;LPCSTR	lpCaption
 		push	eax
 		lea	eax, msg_txt			;LPCSTR	lpText
 		push	eax
-		push	0				;UINT	uType
+		push	0				;UINT uType
 		call	MessageBoxA@16			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
 		
 		push	0				;UINT uExitCode
