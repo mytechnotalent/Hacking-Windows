@@ -9,7 +9,7 @@ The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 ## Chapter 1: Hello World
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_1r1.pdf) to read the FREE pdf book.
+-> Click [HERE]() to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
 
