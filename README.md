@@ -4,12 +4,12 @@
 The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
 ## FREE Book
-[Download]()
+[Download](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf)
 
 ## Chapter 1: Hello World
-This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly.
+This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
--> Click [HERE]() to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf) to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
 
