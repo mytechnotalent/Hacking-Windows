@@ -6,8 +6,8 @@ A FREE Windows C++ development course where we will learn the Win32API and rever
 ## FREE Book
 [Download]()
 
-## Chapter 1: Getting Started
-This chapter covers how to setup your Selenium Framework inside the Eclipse IDE and completing a simple brower test utilizing the Chromium driver.
+## Chapter 1: Hello World
+This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_1r1.pdf) to read the FREE pdf book.
 
