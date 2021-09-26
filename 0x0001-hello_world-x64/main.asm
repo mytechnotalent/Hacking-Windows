@@ -7,18 +7,18 @@ extrn ExitProcess: proc
 
 .code
 	main proc
-		sub	rsp, 20h				;shadow stack
+		sub	rsp, 20h			;shadow stack
 
-		mov	r9, rax					;UINT uType
-		lea	r8, msg_caption				;LPCSTR	lpCaption
-		lea	rdx, msg_txt				;LPCSTR	lpText
-		xor	rcx, rcx				;HWND hWnd
-		call	MessageBoxA				;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
+		mov	r9, rax				;UINT uType
+		lea	r8, msg_caption			;LPCSTR	lpCaption
+		lea	rdx, msg_txt			;LPCSTR	lpText
+		xor	rcx, rcx			;HWND hWnd
+		call	MessageBoxA			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
 		
-		add rsp, 20h					;restore shadow stack
+		add rsp, 20h				;restore shadow stack
 
-		mov rcx, rax					;UNIT uExitCode
-		call ExitProcess				;https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-exitprocess
+		mov rcx, rax				;UNIT uExitCode
+		call ExitProcess			;https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-exitprocess
 
 		ret
 	main endp
