@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking%20Windows.png?raw=true)
 
 # Hacking Windows
-A FREE Windows C++ development course where we will learn the Win32API and reverse engineer each step in IDA Free with both an x86 and x64 environment.
+The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
 ## FREE Book
 [Download]()
