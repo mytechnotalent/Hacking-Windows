@@ -1,5 +1,9 @@
 ![image](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking%20Windows.png?raw=true)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # Hacking Windows
 The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
