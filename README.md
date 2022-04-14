@@ -80,13 +80,18 @@ This chapter covers dynamic reverse engineering analysis, debugging, the Windows
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Chapter 15: Hacking CopyFile x86
+## Chapter 15: Hacking CopyFile x64
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
 ## Chapter 16: MoveFile
 This chapter covers reviewing the Windows API MoveFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 17: Debugging MoveFile x86
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
