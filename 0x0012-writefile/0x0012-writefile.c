@@ -19,7 +19,7 @@ int main(void)
     );
     if (hFile == INVALID_HANDLE_VALUE)
     {
-        printf("CreateFile failed and error no %ul\n", GetLastError());
+        printf("CreateFile failed and error no %lu\n", GetLastError());
     }
     else
     {
@@ -33,9 +33,9 @@ int main(void)
         NULL,
         NULL
     );
-    if (bFile == INVALID_HANDLE_VALUE)
+    if (bFile == FALSE)
     {
-        printf("WriteFile failed and error no %ul\n", GetLastError());
+        printf("WriteFile failed and error no %lu\n", GetLastError());
     }
     else
     {
