@@ -7,15 +7,15 @@ extrn PostQuitMessage: proc
 
 .code
 	main proc
-		sub	rsp, 20h			;shadow stack
+		sub	rsp, 28h			;shadow stack
 
-		mov	r9, rax				;UINT uType
+		xor	r9d, r9d				;UINT uType
 		lea	r8, msg_caption			;LPCSTR	lpCaption
 		lea	rdx, msg_txt			;LPCSTR	lpText
 		xor	rcx, rcx			;HWND hWnd
 		call MessageBoxA			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
 		
-		add rsp, 20h				;restore shadow stack
+		add rsp, 28h				;restore shadow stack
 
 		xor	rcx, rcx			;int nExitCode
 		call PostQuitMessage			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-postquitmessage
