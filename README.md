@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 23, 2026]
-## Lesson 253: Hacking Rust Course (Chapter 8: Debugging Compound Data Types)
-This chapter covers debugging compound data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 24, 2026]
+## Lesson 254: Hacking Rust Course (Chapter 9: Hacking Compound Data Types)
+This chapter covers hacking compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
