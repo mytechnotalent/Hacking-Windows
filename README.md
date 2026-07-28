@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 27, 2026]
-## Lesson 257: Hacking Rust Course (Chapter 12: Hacking Functions)
-This chapter covers hacking functions within a Rust program for the x64 architecture.
+# Today's Tutorial [July 28, 2026]
+## Lesson 258: Hacking Rust Course (Chapter 13: Control Flow)
+This chapter covers control flow within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
