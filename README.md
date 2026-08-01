@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [July 31, 2026]
-## Lesson 261: Hacking Embedded Rust Course (Chapter 1: Wiring)
-This chapter covers the basics of setting up wiring for an embedded Rust Pico.
+# Today's Tutorial [August 1, 2026]
+## Lesson 262: Hacking Embedded Rust Course (Chapter 2: Features)
+This chapter covers the features of Reverse Engineering Rust Pico.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Hacking_Embedded_Rust.pdf) to read the FREE pdf book.
 
