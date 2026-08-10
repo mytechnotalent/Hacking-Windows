@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [August 4, 2026]
-## Lesson 265: Hacking Embedded Rust Course (Chapter 5: Embassy Executor Enqueue/Dequeue In Detail
-This chapter covers the project step-by-step enqueue/dequeue of Reverse Engineering Rust Pico.
+# Today's Tutorial [August 10, 2026]
+## Lesson 266: Hacking Embedded Rust Course (Chapter 6: Building and Flashing)
+This chapter covers the project step-by-step of building and flashing Reverse Engineering Rust Pico.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Hacking_Embedded_Rust.pdf) to read the FREE pdf book.
 
