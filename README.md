@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [September 1, 2026]
-## Lesson 282: Embedded Assembler Course (Chapter 11: Functions, Interrupts, UART & STUXNET Simulation!)
-This chapter covers functions, interrupts, UART and a simple STUXNET simulation within the STM32F401CCU6 architecture.
+# Today's Tutorial [September 2, 2026]
+## Lesson 284: Embedded Hacking Course (Chapter 2: Debugging hello, world)
+This chapter covers the debugging of our firmware for the Pico 2 MCU hello, world program.
 
--> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 <br>
 
