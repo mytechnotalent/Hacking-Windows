@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [September 5, 2026]
-## Lesson 287: Embedded Hacking Course (Chapter 5: Intro To Variables)
-This chapter covers an introduction to variables as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 6, 2026]
+## Lesson 288: Embedded Hacking Course (Chapter 6: Debugging Intro To Variables)
+This chapter covers debugging an introduction to variables as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
