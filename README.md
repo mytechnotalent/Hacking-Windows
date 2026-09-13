@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [September 12, 2026]
-## Lesson 293: Embedded Hacking Course (Chapter 11: Integer Data Type)
-This chapter covers the integer data type in addition to a deeper assembler dive into GPIO outputs as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 13, 2026]
+## Lesson 294: Embedded Hacking Course (Chapter 12: Debugging Integer Data Type)
+This chapter covers debugging the integer data type in addition to a deeper assembler dive into GPIO outputs as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
