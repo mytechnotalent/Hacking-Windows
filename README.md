@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [September 20, 2026]
-## Lesson 301: Embedded Hacking Course (Chapter 19: Hacking Double Floating-Point Data Type)
-This chapter covers hacking the double floating-point data type as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 21, 2026]
+## Lesson 302: Embedded Hacking Course (Chapter 20: Static Variables)
+This chapter covers static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
