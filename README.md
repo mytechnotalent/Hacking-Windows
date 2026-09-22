@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [September 21, 2026]
-## Lesson 302: Embedded Hacking Course (Chapter 20: Static Variables)
-This chapter covers static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 22, 2026]
+## Lesson 303: Embedded Hacking Course (Chapter 21: Debugging Static Variables)
+This chapter covers debugging static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
