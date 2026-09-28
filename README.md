@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [September 25, 2026]
-## Lesson 306: Embedded Hacking Course (Chapter 24: Debugging Constants)
-This chapter covers debugging constants as well as an intro to I2C as we work a 1602 LCD as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 28, 2026]
+## Lesson 309: Embedded Hacking Course (Chapter 27: Debugging Operators)
+This chapter covers debugging operators as well as an intro to single-wire protocol as we work a DHT11 temperature and humidity sensor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/textbook/Embedded-Hacking.pdf) to read the FREE pdf book.
 
