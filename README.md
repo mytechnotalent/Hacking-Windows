@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [October 12, 2026]
-## Lesson 323: Hacking Bits Course (Chapter 1: Ohm's Law - The Foundation of Electronics)
-This chapter covers the basics Ohm's Law and basic electronics.
+# Today's Tutorial [October 13, 2026]
+## Lesson 324: Hacking Bits Course (Chapter 2: The Binary Number System)
+This chapter covers the basics of the binary number system.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
