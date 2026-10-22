@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [October 21, 2026]
-## Lesson 332: Hacking Bits Course (Chapter 10: STUXNET)
-This chapter covers the development and reverse engineering of an servo motor in C including a mock STUXNET hack.
+# Today's Tutorial [October 22, 2026]
+## Lesson 333: Hacking RISC-V Course (Chapter 1: Why RISC-V)
+This chapter covers the "why" of learning RISC-V hacking as we discuss the rise of RISC-V and introduce our ESP32-C3 dev board.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
 <br>
 
