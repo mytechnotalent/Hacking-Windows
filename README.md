@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [November 9, 2026]
-## Lesson 351: AVR Assembler Course (Chapter 005: Digital Inputs (Buttons))
-This lesson will teach you how to read digital inputs and use internal pull-up resistors to control an LED based on push buttons using pure AVR assembly.
+# Today's Tutorial [November 10, 2026]
+## Lesson 352: AVR Assembler Course (Chapter 006: Active Buzzer)
+This lesson will teach you how to generate a beeping sound using an active buzzer and pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/005/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/006/lesson.md) to read the lesson and see the code.
 
 <br>
 
