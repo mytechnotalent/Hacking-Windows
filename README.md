@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [November 25, 2026]
-## Lesson 363: AVR Assembler Course (Chapter 017: Serial Control)
-This lesson will teach you how to implement a full two-way Serial Communications (USART) interface in bare metal assembly, parsing incoming byte commands from a desktop computer to remotely control the 8-bit Shift Register array.
+# Today's Tutorial [November 26, 2026]
+## Lesson 364: AVR Assembler Course (Chapter 018: Photocell (Light Sensor))
+This lesson will teach you how to divide ADC sensor data using a "repeated subtraction" algorithm and use the `SEC` (Set Carry) and `ROL` (Rotate Left through Carry) instructions to dynamically build and display an LED bar graph on a Shift Register.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/017/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/018/lesson.md) to read the lesson and see the code.
 
 <br>
 
